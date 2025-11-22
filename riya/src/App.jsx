@@ -9,7 +9,7 @@ let age=18;
 //  const[age,setAge]=useState("");
  const loadAge=()=>{
     if(age>=18){
-      alert(" vote")
+      alert(" you vote")
     }
     else{
       alert("note vote")
