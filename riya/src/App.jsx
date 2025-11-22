@@ -12,7 +12,7 @@ let age=18;
       alert(" you vote")
     }
     else{
-      alert("note vote")
+      alert(" you note vote")
     }
  }
 //  const App = () => {
