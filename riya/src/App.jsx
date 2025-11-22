@@ -40,7 +40,7 @@ let age=18;
     <Navbar/>
       <h1>Hello app</h1>
       {/* <input type="text" value={age} onChange={(e)=>setAge(e.target.value)}/> */}
-      <button onClick={loadAge} style={{color:"red"}}>Click me</button><br/><br/>
+      <button onClick={loadAge} style={{color:"red"}}>Click Me</button><br/><br/>
     <img src={Img} alt="" />
     <Header/>
     <ClickMeButton/>
