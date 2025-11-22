@@ -2,19 +2,25 @@
 
 
  const App = () => {
- const Age=()=>{
-  let age=prompt("enter age")
-    if(age>=18){
-      alert(" vote")
+ const Riya=()=>{
+  let num=prompt("enter number")
+    if(num>0){
+      alert(" Positive")
     }
-    else{
-      alert("note vote")
+     else if(num<0) {
+
+      alert("Neagitive")
+    }
+    else {
+     alert("Zero")
     }
  }
   return (
     <div>
-      <button onClick={Age} >Click Age</button>
+      <button onClick={Riya} >Check Number</button>
     </div>
   )
 }
 export default App;
+
+
