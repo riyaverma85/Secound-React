@@ -1,15 +1,20 @@
 //rafce
 
 
- const App=()=>{
-const Riya=()=>{
-   alert("Welcome to React Header!")
-}
-return(
-
+ const App = () => {
+ const Age=()=>{
+  let age=prompt("enter age")
+    if(age>=18){
+      alert(" vote")
+    }
+    else{
+      alert("note vote")
+    }
+ }
+  return (
     <div>
-        <button onClick={Riya}>clicke</button>
+      <button onClick={Age} >Click Age</button>
     </div>
-)
+  )
 }
 export default App;
