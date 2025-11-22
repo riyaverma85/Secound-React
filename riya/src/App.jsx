@@ -38,7 +38,7 @@ let age=18;
   return (
     <div>
     <Navbar/>
-      <h1>hello app</h1>
+      <h1>Hello app</h1>
       {/* <input type="text" value={age} onChange={(e)=>setAge(e.target.value)}/> */}
       <button onClick={loadAge} style={{color:"red"}}>Click me</button><br/><br/>
     <img src={Img} alt="" />
