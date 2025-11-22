@@ -1,22 +1,15 @@
 //rafce
 
 
- const App = () => {
- const Riya=()=>{
-let sum=0
-  for(let i=1;i<=10;i++){
-    
-    if(i%2==0){
-      sum++;
-    } 
-  }
-  alert(`total even numbers =${sum}`)
- }
-  return (
+ const App=()=>{
+const Riya=()=>{
+   alert("Welcome to React Header!")
+}
+return(
+
     <div>
-      <button onClick={Riya} >count even Numbers</button><br/><br/>
+        <button onClick={Riya}>clicke</button>
     </div>
-  )
+)
 }
 export default App;
-
