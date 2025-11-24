@@ -1,8 +1,13 @@
-// import React from 'react'
+import React from 'react'
+import Child from './Child';
 
-// const App = () => {
-//   return (
-//     <div>props</div>
-//   )
-// }
-// export default App;
+const App = () => {
+  return (
+    <div>
+        props
+         <Child/>
+        </div>
+   
+  )
+}
+export default App;
