@@ -23,7 +23,7 @@ const portfolio = () => {
     <h1 className='text-cyan-300 ml-8 text-3xl'>VERMA</h1>
     <p className='mr-90 ml-8 text-sm text-cyan-200'>continuously improving my skill to build responsive and scalable web application beinding both forntend and backend development.passionate about full-stack development and creating impactful project</p>
 </div>
-<img src={img} alt=""className="w-40 h-40 rounded-full object-cover"/>
+<img src={img} alt=""className="w-50 h-50 rounded-full object-cover"/>
 </section>
     </>
   )
