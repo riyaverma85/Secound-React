@@ -2,6 +2,8 @@ import React from 'react'
 import "./taiwind.css"
 import img from "/src/one.jpg"
 import { FaHome } from "react-icons/fa";
+import { IoIosContacts } from "react-icons/io";
+
 const App = () => {
   return (
     <>
@@ -11,7 +13,7 @@ const App = () => {
     <ul className='flex items-center'>
     <li className='text-cyan-700 p-2 flex '><FaHome />Home</li>
     <li  className='text-cyan-500 p-2 '>About</li>
-    <li className='text-cyan-300 p-2'>contect</li>
+    <li className='text-cyan-300 p-2'><IoIosContacts />contect</li>
     <li className='text-cyan-300 p-2'>Logine</li>
     </ul>
     <button className='border-2 bg-cyan-600 h-8 border-cyan-900 text-gray-50  rounded'>clicke me</button>
