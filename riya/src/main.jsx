@@ -1,7 +1,7 @@
 
 import { createRoot } from 'react-dom/client'
 
-import App from './props.jsx'
+import App from './tailwind.jsx'
 
 createRoot(document.getElementById('root')).render(
     

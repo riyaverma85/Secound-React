@@ -37,14 +37,14 @@ let age=18;
 //////////////////////location .href="form"dekhna he
   return (
     <div>
-    <Navbar/>
+    {/* <Navbar/>
       <h1>Hello App</h1>
-      {/* <input type="text" value={age} onChange={(e)=>setAge(e.target.value)}/> */}
+      {/* <input type="text" value={age} onChange={(e)=>setAge(e.target.value)}/> 
       <button onClick={loadAge} style={{color:"red"}}>Click Me</button><br/><br/>
     <img src={Img} alt="" />
     <Header/>
     <ClickMeButton/>
-    {/* <Footer2/> */}
+    <Footer2/> */}
     </div>
   )
 }
