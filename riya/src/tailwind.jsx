@@ -3,6 +3,7 @@ import "./taiwind.css"
 import img from "/src/one.jpg"
 import { FaHome } from "react-icons/fa";
 import { IoIosContacts } from "react-icons/io";
+import { BiSolidLogInCircle } from "react-icons/bi";
 
 const App = () => {
   return (
