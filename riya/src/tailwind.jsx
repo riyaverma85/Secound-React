@@ -17,7 +17,7 @@ const App = () => {
     <li className='text-cyan-300 p-2 flex'><IoIosContacts />contect</li>
     <li className='text-cyan-300 p-2 flex'><BiSolidLogInCircle />Logine</li>
     </ul>
-    <button className='border-2 bg-cyan-600 h-8 border-cyan-900 text-gray-50  rounded'>clicke me</button>
+    <button className='border-2 bg-cyan-600 h-8 border-cyan-900 text-gray-50  rounded'>clicke </button>
  
    {/* </div> */}
    </header>
