@@ -17,8 +17,8 @@ const portfolio = () => {
 <section className='bg-fuchsia-950 h-96 '>
     <h3 className='text-amber-50 ml-8 pt-3 flex ' ><LuLaptopMinimalCheck />Coder</h3>
     <h1 className='text-amber-50 ml-8'>HI,I'M</h1>
-    <h1 className='text-cyan-500'>RIYA</h1>
-    <h1 className='text-cyan-300'>VERMA</h1>
+    <h1 className='text-cyan-500 ml-8'>RIYA</h1>
+    <h1 className='text-cyan-300 ml-8 '>VERMA</h1>
 
 </section>
     </>
