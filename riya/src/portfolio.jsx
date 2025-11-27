@@ -4,7 +4,7 @@ const portfolio = () => {
   return (
     <>
     <header>
-        
+      <i>portfolio</i>  
 <ul>
     <li>Home</li>
     <li>Skill</li>
