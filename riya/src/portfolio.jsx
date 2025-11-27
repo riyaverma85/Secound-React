@@ -1,5 +1,6 @@
 import React from 'react'
 import "./portfolio.css"
+import { LuLaptopMinimalCheck } from "react-icons/lu";
 const portfolio = () => {
   return (
     <>
@@ -14,7 +15,8 @@ const portfolio = () => {
 </ul>
     </header>
 <section className='bg-fuchsia-950 h-96'>
-    <h3 className='text-amber-50'>Coder</h3>
+    <h3 className='text-amber-50 ml-8 pt-3 flex ' ><LuLaptopMinimalCheck />
+Coder</h3>
 </section>
     </>
   )
