@@ -1,6 +1,6 @@
 import React from 'react'
 import Child from './Child';
-import img from "..//src/one.jpg"
+import img from "..//assets/one.jpg"
 
 const App = () => {
 let name="riya"
