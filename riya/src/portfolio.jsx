@@ -3,9 +3,9 @@ import "./portfolio.css"
 const portfolio = () => {
   return (
     <>
-    <header className='flex gap-25'>
-      <i>portfolio</i>  
-<ul className='flex gap-4'>
+    <header className='flex gap-40 ml-8'>
+      <i> My portfolio</i>  
+<ul className='flex gap-6'>
     <li>Home</li>
     <li>Skill</li>
     <li>Project</li>
