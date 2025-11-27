@@ -15,7 +15,7 @@ const portfolio = () => {
     <li className=' hover:underline'>Home</li>
     <li className=' hover:underline'>Skill</li>
     <li className=' hover:underline'>Project</li>
-    <li className=' hover:underline'>Eduction</li>
+    <li className=' hover:underline'>Eduction</li> 
     <li className=' hover:underline'>contact</li>
 </ul>
     </header>
